@@ -2,13 +2,13 @@
 title: "Lotka-Volterra Example"
 subtitle: "Numerical approximations"
 description: "Day 3, morning interactive session"
-date: 2024-08-07
+date: 2025-08-06
 format: html
 toc: true
 editor_options: 
   chunk_output_type: console
 ---
-
+#hi
 ::: {.callout-note}
 ## **Credit:** 
 This code is closely based on the article [Numerically solving differential equations with R](https://rstudio-pubs-static.s3.amazonaws.com/32888_197d1a1896534397b67fb04e0d4899ae.html).
